@@ -17,8 +17,8 @@ A simple Python script to check if an email address is valid and deliverable usi
 Clone the repository:
 
 ```bash
-git clone https://github.com/USERNAME/email-verification-tool.git
-cd email-verification-tool
+https://github.com/elprofessorx/EMAIL_VERIFICATION_TOOL.git
+cd EMAIL_VERIFICATION_TOOl
 ```
 
 Install the required package:
