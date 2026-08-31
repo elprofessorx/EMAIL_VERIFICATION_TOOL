@@ -137,7 +137,7 @@ def verify_email(email_address, api_key):
 
 if __name__ == "__main__":
 
-    API_KEY = "90c270e732e940efbec4d03ca2441989"
+    API_KEY = "YOUR API_KEY"
 
     print()
     print(f"{BOLD}{CYAN}[*] Email Verification{RESET}")
